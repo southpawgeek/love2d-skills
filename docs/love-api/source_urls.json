@@ -1,0 +1,9 @@
+{
+  "11.5": {
+    "version": "11.5",
+    "chosenSource": "github/love-api-lua",
+    "repo": "love2d-community/love-api",
+    "ref": "master",
+    "loveApiVersion": "11.5"
+  }
+}
